@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HWAndroid 8.2</string>
+    <string name="ok">OK</string>
+    <string name="hello_my_friend">Hello My Friend</string>
+
+    <string-array name="spinnerLanguages">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+</resources>

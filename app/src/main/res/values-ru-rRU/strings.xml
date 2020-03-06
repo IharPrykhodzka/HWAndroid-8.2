@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HWAndroid 8.2</string>
+    <string name="ok">Подтвердить</string>
+    <string name="hello_my_friend">Здравствуй Друг Мой</string>
+
+    <string-array name="spinnerLanguages">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+</resources>
